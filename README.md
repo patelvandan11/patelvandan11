@@ -1,20 +1,43 @@
-- 👋 Hi, I’m Vandan 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ML , DL.
-- 📫 How to reach me **[Mail Here](mailto:vandan11patel@gmail.com)**
-- 😄 Pronouns: He/him/his
+# Hi, I'm Vandan 👋
+
+Welcome to my GitHub profile! Here’s a bit about me:
+
+- 👀 **Interests**: Machine Learning, Deep Learning
+- 🌱 **Currently Learning**: Advanced ML and DL techniques
+- 📫 **Reach me at**: [vandan11patel@gmail.com](mailto:vandan11patel@gmail.com)
+- 😄 **Pronouns**: He/Him/His
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+## About Me
+
+I'm a passionate researcher in the field of Machine Learning and Deep Learning, currently focusing on applying advanced algorithms to real-world problems. I love exploring new technologies and contributing to projects that push the boundaries of what's possible with data.
+
+## Current Projects
+
+- **Spectral Classification of Chandrayaan-2 IIRS Data**: Utilizing tools like Random Forest, GBM, XGBoost, and various software for data analysis and classification.
+
+## Skills
+
+- **Machine Learning & Deep Learning**: PyTorch, TensorFlow
+- **Data Analysis**: ENVI, QGIS, MATLAB
+- **Programming Languages**: Python, R
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/patelvandan11)
+
+## Contributions
+
+I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out if you have any opportunities or ideas!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 <!---
 patelvandan11/patelvandan11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br>
-
-<h5 align="center">Connect with me:</h5>
-<p align="center">
-<a href="https://www.linkedin.com/in/patelvandan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-
-</p>
