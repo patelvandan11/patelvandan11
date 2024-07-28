@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vandan 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ML , DL.
-- 📫 How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
+- 📫 How to reach me **[Mail Here](mailto:vandan11patel@gmail.com)**
 - 😄 Pronouns: He/him/his
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
