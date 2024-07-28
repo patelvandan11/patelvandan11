@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 
 ## About Me
 
-I'm a passionate researcher in the field of Machine Learning and Deep Learning, currently focusing on applying advanced algorithms to real-world problems. I love exploring new technologies and contributing to projects that push the boundaries of what's possible with data.
+I'm a passionate about  Machine Learning and Deep Learning, currently focusing on applying advanced algorithms to real-world problems. I love exploring new technologies and contributing to projects that push the boundaries of what's possible with data.
 
 ## Current Projects
 
@@ -21,9 +21,8 @@ I'm a passionate researcher in the field of Machine Learning and Deep Learning, 
 
 ## Skills
 
-- **Machine Learning & Deep Learning**: PyTorch, TensorFlow
-- **Data Analysis**: ENVI, QGIS, MATLAB
-- **Programming Languages**: Python, R
+- **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Keras, sklearn
+- **Programming Languages**: Python , C++ 
 
 ## Connect with Me
 
@@ -32,10 +31,6 @@ I'm a passionate researcher in the field of Machine Learning and Deep Learning, 
 ## Contributions
 
 I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out if you have any opportunities or ideas!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 <!---
 patelvandan11/patelvandan11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
