@@ -16,6 +16,5 @@ You can click the Preview link to take a look at your changes.
 <h5 align="center">Connect with me:</h5>
 <p align="center">
 <a href="https://www.linkedin.com/in/patelvandan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<font-awesome-icon :icon="['fab', 'medium']" />
 
 </p>
