@@ -22,7 +22,7 @@ I'm a passionate about  Machine Learning and Deep Learning, currently focusing o
 ## Skills
 
 - **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Keras, sklearn
-- **Programming Languages**: Python(Metaprogramming) , C++ 
+- **Programming Languages**: Python(Metaprogramming , DSA) , C++ 
 
 ## Connect with Me
 
