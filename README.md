@@ -15,9 +15,6 @@ Welcome to my GitHub profile! Here’s a bit about me:
 
 I'm a passionate about  Machine Learning and Deep Learning, currently focusing on applying advanced algorithms to real-world problems. I love exploring new technologies and contributing to projects that push the boundaries of what's possible with data.
 
-## Current Projects
-
-- **Spectral Classification of Chandrayaan-2 IIRS Data**: Utilizing tools like Random Forest, GBM, XGBoost, and various software for data analysis and classification.
 
 ## Skills
 
