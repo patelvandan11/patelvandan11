@@ -4,6 +4,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 
 - 👀 **Interests**: Metaprogramming, Machine Learning, Deep Learning
 - 🌱 **Currently Learning**: Advanced ML and DL techniques
+- ✨ Driven by the desire to use my skills and knowledge to create impactful solutions that address real-world challenges. 
 - 📫 **Reach me at**: [vandan11patel@gmail.com](mailto:vandan11patel@gmail.com)
 - 😄 **Pronouns**: He/Him/His
 
