@@ -19,8 +19,12 @@ I'm a passionate about  Machine Learning and Deep Learning, currently focusing o
 
 ## Skills
 
-- **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Keras, sklearn
-- **Programming Languages**: Python(Metaprogramming , DSA) , C++ 
+- **Programming Languages**: Python, C++, Java, 
+- **Frameworks and Libraries**: PyTorch, TensorFlow, Keras, sklearn, Flask, FastAPI
+- **Database**: SQL, MongoDB, MySQL
+- **Tools and Technologies:**: Git, Docker
+- **Other Skills**: Statistical Analysis
+ 
 
 ## Connect with Me
 
