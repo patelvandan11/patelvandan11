@@ -1,38 +1,53 @@
 # Hi, I'm Vandan 👋
 
-Welcome to my GitHub profile! Here’s a bit about me:
+Welcome to my GitHub profile!
 
-- 👀 **Interests**: Metaprogramming, Machine Learning, Deep Learning
-- 🌱 **Currently Learning**: DL techniques, Transformers, NLP, LLM 
-- ✨ Driven by the desire to use my skills and knowledge to create impactful solutions that address real-world challenges. 
-- 📫 **Reach me at**: [vandan11patel@gmail.com](mailto:vandan11patel@gmail.com)
-- 😄 **Pronouns**: He/Him/His
+- 👀 **Interests**: Machine Learning, Deep Learning, Generative AI  
+- 🌱 **Currently Learning**: Large Language Models (LLMs), AI Engineering, GenAI Systems  
+- 🚀 **Goal**: To build impactful, real-world solutions by leveraging cutting-edge AI technologies  
+- 📫 **Reach me at**: [vandan11patel@gmail.com](mailto:vandan11patel@gmail.com)  
+- 😄 **Pronouns**: He/Him/His  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## About Me
+---
 
-I'm a passionate about  Machine Learning and Deep Learning, currently focusing on applying advanced algorithms to real-world problems. I love exploring new technologies and contributing to projects that push the boundaries of what's possible with data.
+## 🧠 About Me
 
+I'm a passionate AI enthusiast focused on building scalable and efficient solutions using Machine Learning and Deep Learning. Currently exploring LLMs and AI infrastructure to solve real-world challenges in healthcare, travel, education, and more.
 
-## Skills
+I enjoy working on open-source projects, creating smart applications, and learning new technologies every day.
 
-- **Programming Languages**: Python, C++, Java, 
-- **Frameworks and Libraries**: PyTorch, TensorFlow, Keras, sklearn, Flask, FastAPI, 🤗 transformers
-- **Database**: SQL, MongoDB, MySQL
-- **Tools and Technologies:**: Git, Docker
-- **Other Skills**: Statistical Analysis
- 
+---
 
-## Connect with Me
+## ⚒️ Skills
 
-- [LinkedIn](https://www.linkedin.com/in/patelvandan11)
+- **Languages**: Python, C++, Java  
+- **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, Scikit-learn, 🤗 Transformers  
+- **Backend & APIs**: Flask, FastAPI  
+- **Databases**: MySQL, MongoDB, SQL  
+- **Tools**: Git, Docker, VS Code, Jupyter  
+- **Other**: Statistical Analysis, AI/ML Model Deployment, Prompt Engineering  
 
-## Contributions
+---
 
-I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out if you have any opportunities or ideas!
+## 🤝 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/patelvandan11)
+
+---
+
+## 📈 GitHub Stats
+
+![Vandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelvandan11&show_icons=true&theme=tokyonight)
+
+---
+
+## 💡 Let’s Collaborate!
+
+I'm always open to exciting collaborations, freelance AI projects, or innovative hackathons. Let’s connect and build something impactful together!
 
 <!---
 patelvandan11/patelvandan11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
