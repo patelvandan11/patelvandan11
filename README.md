@@ -25,18 +25,23 @@ I enjoy working on open-source projects, creating smart applications, and learni
 ## ⚒️ Skills
 
 - **Languages**: Python, C++, Java  
-- **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, Scikit-learn, 🤗 Transformers  
+- **Fronted**: React, HTML, CSS, Tailwind CSS  
+- **Frameworks & Libraries**: Numpy, Pandas, Matplotlib, seaborn, NLTK, selenium, OpenCV, Streamlit, PyTorch, TensorFlow, Keras, Scikit-learn, Transformers, Langchain(ongoing), openai
 - **Backend & APIs**: Flask, FastAPI  
 - **Databases**: MySQL, MongoDB, SQL  
+- **Vector Database**: CromaDB(ongoing)  
 - **Tools**: Git, Docker, VS Code, Jupyter  
 - **Other**: Statistical Analysis, AI/ML Model Deployment, Prompt Engineering  
 
 ---
+## Hobbies
+- **Exploring new technology** 
+- **Painting & digital art**
+- **Storytelling & creative writing**
 
 ## 🤝 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/patelvandan11)
-
 ---
 
  
