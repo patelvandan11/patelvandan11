@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 - 👀 **Interests**: Machine Learning, Deep Learning, Generative AI  
-- 🌱 **Currently Learning**: Large Language Models (LLMs), AI Engineering, GenAI Systems  
+- 🌱 **Currently Learning**: Large Language Models (LLMs), AI Engineering, GenAI Systems, Langchain, Langgraph, MCP  
 - 🚀 **Goal**: To build impactful, real-world solutions by leveraging cutting-edge AI technologies  
 - 📫 **Reach me at**: [vandan11patel@gmail.com](mailto:vandan11patel@gmail.com)  
 - 😄 **Pronouns**: He/Him/His  
@@ -29,7 +29,7 @@ I enjoy working on open-source projects, creating smart applications, and learni
 - **Frameworks & Libraries**: Numpy, Pandas, Matplotlib, seaborn, NLTK, selenium, OpenCV, Streamlit, PyTorch, TensorFlow, Keras, Scikit-learn, Transformers, Langchain(ongoing), openai
 - **Backend & APIs**: Flask, FastAPI  
 - **Databases**: MySQL, MongoDB, SQL  
-- **Vector Database**: CromaDB(ongoing)  
+- **Vector Database**: CromaDB  
 - **Tools**: Git, Docker, VS Code, Jupyter  
 - **Other**: Statistical Analysis, AI/ML Model Deployment, Prompt Engineering  
 
