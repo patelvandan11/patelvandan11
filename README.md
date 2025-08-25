@@ -29,7 +29,7 @@ I enjoy working on open-source projects, creating smart applications, and learni
 - **Frameworks & Libraries**: Numpy, Pandas, Matplotlib, seaborn, NLTK, selenium, OpenCV, Streamlit, PyTorch, TensorFlow, Keras, Scikit-learn, Transformers, Langchain(ongoing), openai
 - **Backend & APIs**: Flask, FastAPI  
 - **Databases**: MySQL, MongoDB, SQL  
-- **Vector Database**: CromaDB  
+- **Vector Database**: CromaDB, pinecone
 - **Tools**: Git, Docker, VS Code, Jupyter  
 - **Other**: Statistical Analysis, AI/ML Model Deployment, Prompt Engineering  
 
