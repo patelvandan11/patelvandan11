@@ -1,4 +1,4 @@
-# Hi, I'm Vandan 👋
+# Hi, I'm Vandan. I don’t just train models, I train myself—because in ML and life, better accuracy comes from better iterations.👋
 
 Welcome to my GitHub profile!
 
