@@ -27,7 +27,7 @@ I enjoy working on open-source projects, creating smart applications, and learni
 
 - **Languages**: Python, C++, Java  
 - **Fronted**: React, HTML, CSS, Tailwind CSS  
-- **Frameworks & Libraries**: Numpy, Pandas, Matplotlib, seaborn, NLTK, selenium, OpenCV, Streamlit, PyTorch, TensorFlow, Keras, Scikit-learn, Transformers, Langchain(ongoing), openai
+- **Frameworks & Libraries**: Numpy, Pandas, Matplotlib, seaborn, NLTK, selenium, OpenCV, Streamlit, PyTorch, TensorFlow, Keras, Scikit-learn, Transformers, Langchain, LangGraph, OpenAI Agent SDK, FastMCP
 - **Backend & APIs**: Flask, FastAPI  
 - **Databases**: MySQL, MongoDB, SQL  
 - **Vector Database**: CromaDB, pinecone
@@ -43,6 +43,7 @@ I enjoy working on open-source projects, creating smart applications, and learni
 ## 🤝 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/patelvandan11)
+- 🌐 [Portfolio](https://vandanpatel1.vercel.app/)
 ---
 
  
