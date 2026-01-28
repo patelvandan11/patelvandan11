@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 ## 🧠 About Me
 
-I'm a passionate AI enthusiast focused on building scalable and efficient solutions using Machine Learning and Deep Learning. Currently exploring LLMs and AI infrastructure to solve real-world challenges in healthcare, travel, education, and more.
+I'm a passionate AI enthusiast focused on building scalable and efficient solutions using Machine Learning and Deep Learning. Currently exploring financial modeling, LLMs and AI infrastructure to solve real-world challenges in healthcare, travel, education, and more.
 
 I enjoy working on open-source projects, creating smart applications, and learning new technologies every day.
 
@@ -29,7 +29,7 @@ I enjoy working on open-source projects, creating smart applications, and learni
 - **Fronted**: React, HTML, CSS, Tailwind CSS  
 - **Frameworks & Libraries**: Numpy, Pandas, Matplotlib, seaborn, NLTK, selenium, OpenCV, Streamlit, PyTorch, TensorFlow, Keras, Scikit-learn, Transformers, Langchain, LangGraph, OpenAI Agent SDK, FastMCP
 - **Backend & APIs**: Flask, FastAPI  
-- **Databases**: MySQL, MongoDB, SQL  
+- **Databases**: MySQL, MongoDB, SQL, Postgresql
 - **Vector Database**: CromaDB, pinecone
 - **Tools**: Git, Docker, VS Code, Jupyter  
 - **Other**: Statistical Analysis, AI/ML Model Deployment, Prompt Engineering  
