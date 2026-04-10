@@ -44,6 +44,7 @@ I enjoy working on open-source projects, creating smart applications, and learni
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/patelvandan11)
 - 🌐 [Portfolio](https://vandanpatel1.vercel.app/)
+- </>[Leetcode](https://leetcode.com/u/vandan_patel115/)
 ---
 
  
