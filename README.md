@@ -48,12 +48,3 @@ I enjoy working on open-source projects, creating smart applications, and learni
 ---
 
  
-
-## 💡 Let’s Collaborate!
-
-I'm always open to exciting collaborations, freelance AI projects, or innovative hackathons. Let’s connect and build something impactful together!
-
-<!---
-patelvandan11/patelvandan11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
